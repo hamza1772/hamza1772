@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on Android and Flutter
-- 🌱 I’m currently learning clean architechure and design patterns.
-- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/hamza-khan-534964140)
-- ⚡ Fun fact: working on it.
-
+- 🔭 I'm a professional native android and flutter app developer.
+- 🌱 I follow learning clean architechure and design patterns.
+- 📫 Reach me out at: [LinkedIN](https://www.linkedin.com/in/hamza-khan-534964140)
+- ⚡ Fun fact: I have started app designing along with development.
